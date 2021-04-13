@@ -1,0 +1,12 @@
+E:\Bai_Tap\b3\b3\bin\Debug\netcoreapp3.1\b3.exe
+E:\Bai_Tap\b3\b3\bin\Debug\netcoreapp3.1\b3.deps.json
+E:\Bai_Tap\b3\b3\bin\Debug\netcoreapp3.1\b3.runtimeconfig.json
+E:\Bai_Tap\b3\b3\bin\Debug\netcoreapp3.1\b3.runtimeconfig.dev.json
+E:\Bai_Tap\b3\b3\bin\Debug\netcoreapp3.1\b3.dll
+E:\Bai_Tap\b3\b3\bin\Debug\netcoreapp3.1\b3.pdb
+E:\Bai_Tap\b3\b3\obj\Debug\netcoreapp3.1\b3.AssemblyInfoInputs.cache
+E:\Bai_Tap\b3\b3\obj\Debug\netcoreapp3.1\b3.AssemblyInfo.cs
+E:\Bai_Tap\b3\b3\obj\Debug\netcoreapp3.1\b3.csproj.CoreCompileInputs.cache
+E:\Bai_Tap\b3\b3\obj\Debug\netcoreapp3.1\b3.dll
+E:\Bai_Tap\b3\b3\obj\Debug\netcoreapp3.1\b3.pdb
+E:\Bai_Tap\b3\b3\obj\Debug\netcoreapp3.1\b3.genruntimeconfig.cache

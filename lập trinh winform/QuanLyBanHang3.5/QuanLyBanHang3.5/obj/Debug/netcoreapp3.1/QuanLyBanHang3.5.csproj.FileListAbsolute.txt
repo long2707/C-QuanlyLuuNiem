@@ -1,0 +1,13 @@
+E:\lập trinh winform\QuanLyBanHang3.5\QuanLyBanHang3.5\bin\Debug\netcoreapp3.1\QuanLyBanHang3.5.exe
+E:\lập trinh winform\QuanLyBanHang3.5\QuanLyBanHang3.5\bin\Debug\netcoreapp3.1\QuanLyBanHang3.5.deps.json
+E:\lập trinh winform\QuanLyBanHang3.5\QuanLyBanHang3.5\bin\Debug\netcoreapp3.1\QuanLyBanHang3.5.runtimeconfig.json
+E:\lập trinh winform\QuanLyBanHang3.5\QuanLyBanHang3.5\bin\Debug\netcoreapp3.1\QuanLyBanHang3.5.runtimeconfig.dev.json
+E:\lập trinh winform\QuanLyBanHang3.5\QuanLyBanHang3.5\bin\Debug\netcoreapp3.1\QuanLyBanHang3.5.dll
+E:\lập trinh winform\QuanLyBanHang3.5\QuanLyBanHang3.5\bin\Debug\netcoreapp3.1\QuanLyBanHang3.5.pdb
+E:\lập trinh winform\QuanLyBanHang3.5\QuanLyBanHang3.5\obj\Debug\netcoreapp3.1\QuanLyBanHang3.5.csprojAssemblyReference.cache
+E:\lập trinh winform\QuanLyBanHang3.5\QuanLyBanHang3.5\obj\Debug\netcoreapp3.1\QuanLyBanHang3.5.AssemblyInfoInputs.cache
+E:\lập trinh winform\QuanLyBanHang3.5\QuanLyBanHang3.5\obj\Debug\netcoreapp3.1\QuanLyBanHang3.5.AssemblyInfo.cs
+E:\lập trinh winform\QuanLyBanHang3.5\QuanLyBanHang3.5\obj\Debug\netcoreapp3.1\QuanLyBanHang3.5.csproj.CoreCompileInputs.cache
+E:\lập trinh winform\QuanLyBanHang3.5\QuanLyBanHang3.5\obj\Debug\netcoreapp3.1\QuanLyBanHang3.5.dll
+E:\lập trinh winform\QuanLyBanHang3.5\QuanLyBanHang3.5\obj\Debug\netcoreapp3.1\QuanLyBanHang3.5.pdb
+E:\lập trinh winform\QuanLyBanHang3.5\QuanLyBanHang3.5\obj\Debug\netcoreapp3.1\QuanLyBanHang3.5.genruntimeconfig.cache

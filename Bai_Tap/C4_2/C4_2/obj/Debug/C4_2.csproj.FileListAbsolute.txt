@@ -1,0 +1,11 @@
+E:\Bai_Tap\C4_2\C4_2\bin\Debug\C4_2.exe.config
+E:\Bai_Tap\C4_2\C4_2\bin\Debug\C4_2.exe
+E:\Bai_Tap\C4_2\C4_2\bin\Debug\C4_2.pdb
+E:\Bai_Tap\C4_2\C4_2\obj\Debug\C4_2.csprojAssemblyReference.cache
+E:\Bai_Tap\C4_2\C4_2\obj\Debug\C4_2.fmMain.resources
+E:\Bai_Tap\C4_2\C4_2\obj\Debug\C4_2.Properties.Resources.resources
+E:\Bai_Tap\C4_2\C4_2\obj\Debug\C4_2.csproj.GenerateResource.cache
+E:\Bai_Tap\C4_2\C4_2\obj\Debug\C4_2.csproj.CoreCompileInputs.cache
+E:\Bai_Tap\C4_2\C4_2\obj\Debug\C4_2.exe
+E:\Bai_Tap\C4_2\C4_2\obj\Debug\C4_2.pdb
+E:\Bai_Tap\C4_2\C4_2\obj\Debug\C4_2.FrmDangNhap.resources

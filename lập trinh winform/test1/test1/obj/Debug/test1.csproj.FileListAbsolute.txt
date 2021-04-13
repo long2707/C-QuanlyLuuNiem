@@ -1,0 +1,12 @@
+E:\lập trinh winform\test1\test1\bin\Debug\Database.mdf
+E:\lập trinh winform\test1\test1\bin\Debug\Database_log.ldf
+E:\lập trinh winform\test1\test1\bin\Debug\test1.exe.config
+E:\lập trinh winform\test1\test1\bin\Debug\test1.exe
+E:\lập trinh winform\test1\test1\bin\Debug\test1.pdb
+E:\lập trinh winform\test1\test1\obj\Debug\test1.csprojAssemblyReference.cache
+E:\lập trinh winform\test1\test1\obj\Debug\test1.Form1.resources
+E:\lập trinh winform\test1\test1\obj\Debug\test1.Properties.Resources.resources
+E:\lập trinh winform\test1\test1\obj\Debug\test1.csproj.GenerateResource.cache
+E:\lập trinh winform\test1\test1\obj\Debug\test1.csproj.CoreCompileInputs.cache
+E:\lập trinh winform\test1\test1\obj\Debug\test1.exe
+E:\lập trinh winform\test1\test1\obj\Debug\test1.pdb

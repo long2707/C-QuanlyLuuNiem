@@ -1,0 +1,10 @@
+E:\lập trinh winform\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\QuanLyCuaHang.exe.config
+E:\lập trinh winform\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\QuanLyCuaHang.exe
+E:\lập trinh winform\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\QuanLyCuaHang.pdb
+E:\lập trinh winform\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.csprojAssemblyReference.cache
+E:\lập trinh winform\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.Form1.resources
+E:\lập trinh winform\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.Properties.Resources.resources
+E:\lập trinh winform\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.csproj.GenerateResource.cache
+E:\lập trinh winform\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.csproj.CoreCompileInputs.cache
+E:\lập trinh winform\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.exe
+E:\lập trinh winform\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.pdb

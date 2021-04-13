@@ -1,0 +1,10 @@
+E:\Bai_Tap\Bai2_c4\Bai2_c4\bin\Debug\Bai2_c4.exe.config
+E:\Bai_Tap\Bai2_c4\Bai2_c4\bin\Debug\Bai2_c4.exe
+E:\Bai_Tap\Bai2_c4\Bai2_c4\bin\Debug\Bai2_c4.pdb
+E:\Bai_Tap\Bai2_c4\Bai2_c4\obj\Debug\Bai2_c4.csprojAssemblyReference.cache
+E:\Bai_Tap\Bai2_c4\Bai2_c4\obj\Debug\Bai2_c4.Form1.resources
+E:\Bai_Tap\Bai2_c4\Bai2_c4\obj\Debug\Bai2_c4.Properties.Resources.resources
+E:\Bai_Tap\Bai2_c4\Bai2_c4\obj\Debug\Bai2_c4.csproj.GenerateResource.cache
+E:\Bai_Tap\Bai2_c4\Bai2_c4\obj\Debug\Bai2_c4.csproj.CoreCompileInputs.cache
+E:\Bai_Tap\Bai2_c4\Bai2_c4\obj\Debug\Bai2_c4.exe
+E:\Bai_Tap\Bai2_c4\Bai2_c4\obj\Debug\Bai2_c4.pdb

@@ -1,0 +1,13 @@
+E:\lập trinh winform\test\test\bin\Debug\netcoreapp3.1\test.exe
+E:\lập trinh winform\test\test\bin\Debug\netcoreapp3.1\test.deps.json
+E:\lập trinh winform\test\test\bin\Debug\netcoreapp3.1\test.runtimeconfig.json
+E:\lập trinh winform\test\test\bin\Debug\netcoreapp3.1\test.runtimeconfig.dev.json
+E:\lập trinh winform\test\test\bin\Debug\netcoreapp3.1\test.dll
+E:\lập trinh winform\test\test\bin\Debug\netcoreapp3.1\test.pdb
+E:\lập trinh winform\test\test\obj\Debug\netcoreapp3.1\test.csprojAssemblyReference.cache
+E:\lập trinh winform\test\test\obj\Debug\netcoreapp3.1\test.AssemblyInfoInputs.cache
+E:\lập trinh winform\test\test\obj\Debug\netcoreapp3.1\test.AssemblyInfo.cs
+E:\lập trinh winform\test\test\obj\Debug\netcoreapp3.1\test.csproj.CoreCompileInputs.cache
+E:\lập trinh winform\test\test\obj\Debug\netcoreapp3.1\test.dll
+E:\lập trinh winform\test\test\obj\Debug\netcoreapp3.1\test.pdb
+E:\lập trinh winform\test\test\obj\Debug\netcoreapp3.1\test.genruntimeconfig.cache

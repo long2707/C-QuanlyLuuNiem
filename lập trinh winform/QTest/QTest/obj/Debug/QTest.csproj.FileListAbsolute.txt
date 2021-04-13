@@ -1,0 +1,12 @@
+E:\lập trinh winform\QTest\QTest\bin\Debug\QTest.exe.config
+E:\lập trinh winform\QTest\QTest\bin\Debug\QTest.exe
+E:\lập trinh winform\QTest\QTest\bin\Debug\QTest.pdb
+E:\lập trinh winform\QTest\QTest\obj\Debug\QTest.csprojAssemblyReference.cache
+E:\lập trinh winform\QTest\QTest\obj\Debug\QTest.Chatlieu.resources
+E:\lập trinh winform\QTest\QTest\obj\Debug\QTest.Form1.resources
+E:\lập trinh winform\QTest\QTest\obj\Debug\QTest.Properties.Resources.resources
+E:\lập trinh winform\QTest\QTest\obj\Debug\QTest.csproj.GenerateResource.cache
+E:\lập trinh winform\QTest\QTest\obj\Debug\QTest.csproj.CoreCompileInputs.cache
+E:\lập trinh winform\QTest\QTest\obj\Debug\QTest.exe
+E:\lập trinh winform\QTest\QTest\obj\Debug\QTest.pdb
+E:\lập trinh winform\QTest\QTest\obj\Debug\QTest.Hang.resources

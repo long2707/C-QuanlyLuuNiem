@@ -1,0 +1,11 @@
+E:\Bai_Tap\QuanLyBanLuuNiem\QuanLyBanLuuNiem\bin\Debug\QuanLyBanLuuNiem.exe.config
+E:\Bai_Tap\QuanLyBanLuuNiem\QuanLyBanLuuNiem\bin\Debug\QuanLyBanLuuNiem.exe
+E:\Bai_Tap\QuanLyBanLuuNiem\QuanLyBanLuuNiem\bin\Debug\QuanLyBanLuuNiem.pdb
+E:\Bai_Tap\QuanLyBanLuuNiem\QuanLyBanLuuNiem\obj\Debug\QuanLyBanLuuNiem.csprojAssemblyReference.cache
+E:\Bai_Tap\QuanLyBanLuuNiem\QuanLyBanLuuNiem\obj\Debug\QuanLyBanLuuNiem.fromData.fmChatlieu.resources
+E:\Bai_Tap\QuanLyBanLuuNiem\QuanLyBanLuuNiem\obj\Debug\QuanLyBanLuuNiem.Properties.Resources.resources
+E:\Bai_Tap\QuanLyBanLuuNiem\QuanLyBanLuuNiem\obj\Debug\QuanLyBanLuuNiem.csproj.GenerateResource.cache
+E:\Bai_Tap\QuanLyBanLuuNiem\QuanLyBanLuuNiem\obj\Debug\QuanLyBanLuuNiem.csproj.CoreCompileInputs.cache
+E:\Bai_Tap\QuanLyBanLuuNiem\QuanLyBanLuuNiem\obj\Debug\QuanLyBanLuuNiem.exe
+E:\Bai_Tap\QuanLyBanLuuNiem\QuanLyBanLuuNiem\obj\Debug\QuanLyBanLuuNiem.pdb
+E:\Bai_Tap\QuanLyBanLuuNiem\QuanLyBanLuuNiem\obj\Debug\QuanLyBanLuuNiem.fromData.Form1.resources

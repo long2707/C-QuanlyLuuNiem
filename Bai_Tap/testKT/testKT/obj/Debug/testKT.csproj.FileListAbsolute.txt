@@ -1,0 +1,10 @@
+E:\Bai_Tap\testKT\testKT\bin\Debug\testKT.exe.config
+E:\Bai_Tap\testKT\testKT\bin\Debug\testKT.exe
+E:\Bai_Tap\testKT\testKT\bin\Debug\testKT.pdb
+E:\Bai_Tap\testKT\testKT\obj\Debug\testKT.csprojAssemblyReference.cache
+E:\Bai_Tap\testKT\testKT\obj\Debug\testKT.Form1.resources
+E:\Bai_Tap\testKT\testKT\obj\Debug\testKT.Properties.Resources.resources
+E:\Bai_Tap\testKT\testKT\obj\Debug\testKT.csproj.GenerateResource.cache
+E:\Bai_Tap\testKT\testKT\obj\Debug\testKT.csproj.CoreCompileInputs.cache
+E:\Bai_Tap\testKT\testKT\obj\Debug\testKT.exe
+E:\Bai_Tap\testKT\testKT\obj\Debug\testKT.pdb

@@ -1,0 +1,13 @@
+E:\Bai_Tap\bài6\bài6\bin\Debug\netcoreapp3.1\bài6.exe
+E:\Bai_Tap\bài6\bài6\bin\Debug\netcoreapp3.1\bài6.deps.json
+E:\Bai_Tap\bài6\bài6\bin\Debug\netcoreapp3.1\bài6.runtimeconfig.json
+E:\Bai_Tap\bài6\bài6\bin\Debug\netcoreapp3.1\bài6.runtimeconfig.dev.json
+E:\Bai_Tap\bài6\bài6\bin\Debug\netcoreapp3.1\bài6.dll
+E:\Bai_Tap\bài6\bài6\bin\Debug\netcoreapp3.1\bài6.pdb
+E:\Bai_Tap\bài6\bài6\obj\Debug\netcoreapp3.1\bài6.csprojAssemblyReference.cache
+E:\Bai_Tap\bài6\bài6\obj\Debug\netcoreapp3.1\bài6.AssemblyInfoInputs.cache
+E:\Bai_Tap\bài6\bài6\obj\Debug\netcoreapp3.1\bài6.AssemblyInfo.cs
+E:\Bai_Tap\bài6\bài6\obj\Debug\netcoreapp3.1\bài6.csproj.CoreCompileInputs.cache
+E:\Bai_Tap\bài6\bài6\obj\Debug\netcoreapp3.1\bài6.dll
+E:\Bai_Tap\bài6\bài6\obj\Debug\netcoreapp3.1\bài6.pdb
+E:\Bai_Tap\bài6\bài6\obj\Debug\netcoreapp3.1\bài6.genruntimeconfig.cache

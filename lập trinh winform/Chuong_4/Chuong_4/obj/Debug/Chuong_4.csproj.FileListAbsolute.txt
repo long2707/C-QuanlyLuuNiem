@@ -1,0 +1,10 @@
+E:\lập trinh winform\Chuong_4\Chuong_4\bin\Debug\Chuong_4.exe.config
+E:\lập trinh winform\Chuong_4\Chuong_4\bin\Debug\Chuong_4.exe
+E:\lập trinh winform\Chuong_4\Chuong_4\bin\Debug\Chuong_4.pdb
+E:\lập trinh winform\Chuong_4\Chuong_4\obj\Debug\Chuong_4.csprojAssemblyReference.cache
+E:\lập trinh winform\Chuong_4\Chuong_4\obj\Debug\Chuong_4.Form1.resources
+E:\lập trinh winform\Chuong_4\Chuong_4\obj\Debug\Chuong_4.Properties.Resources.resources
+E:\lập trinh winform\Chuong_4\Chuong_4\obj\Debug\Chuong_4.csproj.GenerateResource.cache
+E:\lập trinh winform\Chuong_4\Chuong_4\obj\Debug\Chuong_4.csproj.CoreCompileInputs.cache
+E:\lập trinh winform\Chuong_4\Chuong_4\obj\Debug\Chuong_4.exe
+E:\lập trinh winform\Chuong_4\Chuong_4\obj\Debug\Chuong_4.pdb

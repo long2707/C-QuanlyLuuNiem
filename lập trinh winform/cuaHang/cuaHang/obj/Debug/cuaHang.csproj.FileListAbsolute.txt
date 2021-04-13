@@ -1,0 +1,10 @@
+E:\lập trinh winform\cuaHang\cuaHang\obj\Debug\cuaHang.csprojAssemblyReference.cache
+E:\lập trinh winform\cuaHang\cuaHang\obj\Debug\cuaHang.Form1.resources
+E:\lập trinh winform\cuaHang\cuaHang\obj\Debug\cuaHang.Properties.Resources.resources
+E:\lập trinh winform\cuaHang\cuaHang\obj\Debug\cuaHang.csproj.GenerateResource.cache
+E:\lập trinh winform\cuaHang\cuaHang\obj\Debug\cuaHang.csproj.CoreCompileInputs.cache
+E:\lập trinh winform\cuaHang\cuaHang\bin\Debug\cuaHang.exe.config
+E:\lập trinh winform\cuaHang\cuaHang\bin\Debug\cuaHang.exe
+E:\lập trinh winform\cuaHang\cuaHang\bin\Debug\cuaHang.pdb
+E:\lập trinh winform\cuaHang\cuaHang\obj\Debug\cuaHang.exe
+E:\lập trinh winform\cuaHang\cuaHang\obj\Debug\cuaHang.pdb

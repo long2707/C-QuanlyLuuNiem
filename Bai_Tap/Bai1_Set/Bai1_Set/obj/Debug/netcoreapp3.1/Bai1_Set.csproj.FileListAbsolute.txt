@@ -1,0 +1,13 @@
+E:\Bai_Tap\Bai1_Set\Bai1_Set\bin\Debug\netcoreapp3.1\Bai1_Set.exe
+E:\Bai_Tap\Bai1_Set\Bai1_Set\bin\Debug\netcoreapp3.1\Bai1_Set.deps.json
+E:\Bai_Tap\Bai1_Set\Bai1_Set\bin\Debug\netcoreapp3.1\Bai1_Set.runtimeconfig.json
+E:\Bai_Tap\Bai1_Set\Bai1_Set\bin\Debug\netcoreapp3.1\Bai1_Set.runtimeconfig.dev.json
+E:\Bai_Tap\Bai1_Set\Bai1_Set\bin\Debug\netcoreapp3.1\Bai1_Set.dll
+E:\Bai_Tap\Bai1_Set\Bai1_Set\bin\Debug\netcoreapp3.1\Bai1_Set.pdb
+E:\Bai_Tap\Bai1_Set\Bai1_Set\obj\Debug\netcoreapp3.1\Bai1_Set.csprojAssemblyReference.cache
+E:\Bai_Tap\Bai1_Set\Bai1_Set\obj\Debug\netcoreapp3.1\Bai1_Set.AssemblyInfoInputs.cache
+E:\Bai_Tap\Bai1_Set\Bai1_Set\obj\Debug\netcoreapp3.1\Bai1_Set.AssemblyInfo.cs
+E:\Bai_Tap\Bai1_Set\Bai1_Set\obj\Debug\netcoreapp3.1\Bai1_Set.csproj.CoreCompileInputs.cache
+E:\Bai_Tap\Bai1_Set\Bai1_Set\obj\Debug\netcoreapp3.1\Bai1_Set.dll
+E:\Bai_Tap\Bai1_Set\Bai1_Set\obj\Debug\netcoreapp3.1\Bai1_Set.pdb
+E:\Bai_Tap\Bai1_Set\Bai1_Set\obj\Debug\netcoreapp3.1\Bai1_Set.genruntimeconfig.cache

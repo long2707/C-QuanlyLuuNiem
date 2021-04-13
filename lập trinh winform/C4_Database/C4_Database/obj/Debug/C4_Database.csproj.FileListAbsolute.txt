@@ -1,0 +1,10 @@
+E:\lập trinh winform\C4_Database\C4_Database\bin\Debug\C4_Database.exe.config
+E:\lập trinh winform\C4_Database\C4_Database\bin\Debug\C4_Database.exe
+E:\lập trinh winform\C4_Database\C4_Database\bin\Debug\C4_Database.pdb
+E:\lập trinh winform\C4_Database\C4_Database\obj\Debug\C4_Database.csprojAssemblyReference.cache
+E:\lập trinh winform\C4_Database\C4_Database\obj\Debug\C4_Database.Form1.resources
+E:\lập trinh winform\C4_Database\C4_Database\obj\Debug\C4_Database.Properties.Resources.resources
+E:\lập trinh winform\C4_Database\C4_Database\obj\Debug\C4_Database.csproj.GenerateResource.cache
+E:\lập trinh winform\C4_Database\C4_Database\obj\Debug\C4_Database.csproj.CoreCompileInputs.cache
+E:\lập trinh winform\C4_Database\C4_Database\obj\Debug\C4_Database.exe
+E:\lập trinh winform\C4_Database\C4_Database\obj\Debug\C4_Database.pdb

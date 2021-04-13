@@ -1,0 +1,13 @@
+E:\lập trinh winform\c3\c3\bin\Debug\netcoreapp3.1\c3.exe
+E:\lập trinh winform\c3\c3\bin\Debug\netcoreapp3.1\c3.deps.json
+E:\lập trinh winform\c3\c3\bin\Debug\netcoreapp3.1\c3.runtimeconfig.json
+E:\lập trinh winform\c3\c3\bin\Debug\netcoreapp3.1\c3.runtimeconfig.dev.json
+E:\lập trinh winform\c3\c3\bin\Debug\netcoreapp3.1\c3.dll
+E:\lập trinh winform\c3\c3\bin\Debug\netcoreapp3.1\c3.pdb
+E:\lập trinh winform\c3\c3\obj\Debug\netcoreapp3.1\c3.csprojAssemblyReference.cache
+E:\lập trinh winform\c3\c3\obj\Debug\netcoreapp3.1\c3.AssemblyInfoInputs.cache
+E:\lập trinh winform\c3\c3\obj\Debug\netcoreapp3.1\c3.AssemblyInfo.cs
+E:\lập trinh winform\c3\c3\obj\Debug\netcoreapp3.1\c3.csproj.CoreCompileInputs.cache
+E:\lập trinh winform\c3\c3\obj\Debug\netcoreapp3.1\c3.dll
+E:\lập trinh winform\c3\c3\obj\Debug\netcoreapp3.1\c3.pdb
+E:\lập trinh winform\c3\c3\obj\Debug\netcoreapp3.1\c3.genruntimeconfig.cache

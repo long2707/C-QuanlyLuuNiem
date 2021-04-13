@@ -1,0 +1,13 @@
+E:\lập trinh winform\Chuong2♥\Chuong2♥\obj\Debug\netcoreapp3.1\Chuong2♥.AssemblyInfoInputs.cache
+E:\lập trinh winform\Chuong2♥\Chuong2♥\obj\Debug\netcoreapp3.1\Chuong2♥.AssemblyInfo.cs
+E:\lập trinh winform\Chuong2♥\Chuong2♥\obj\Debug\netcoreapp3.1\Chuong2♥.csproj.CoreCompileInputs.cache
+E:\lập trinh winform\Chuong2♥\Chuong2♥\bin\Debug\netcoreapp3.1\Chuong2♥.exe
+E:\lập trinh winform\Chuong2♥\Chuong2♥\bin\Debug\netcoreapp3.1\Chuong2♥.deps.json
+E:\lập trinh winform\Chuong2♥\Chuong2♥\bin\Debug\netcoreapp3.1\Chuong2♥.runtimeconfig.json
+E:\lập trinh winform\Chuong2♥\Chuong2♥\bin\Debug\netcoreapp3.1\Chuong2♥.runtimeconfig.dev.json
+E:\lập trinh winform\Chuong2♥\Chuong2♥\bin\Debug\netcoreapp3.1\Chuong2♥.dll
+E:\lập trinh winform\Chuong2♥\Chuong2♥\bin\Debug\netcoreapp3.1\Chuong2♥.pdb
+E:\lập trinh winform\Chuong2♥\Chuong2♥\obj\Debug\netcoreapp3.1\Chuong2♥.dll
+E:\lập trinh winform\Chuong2♥\Chuong2♥\obj\Debug\netcoreapp3.1\Chuong2♥.pdb
+E:\lập trinh winform\Chuong2♥\Chuong2♥\obj\Debug\netcoreapp3.1\Chuong2♥.genruntimeconfig.cache
+E:\lập trinh winform\Chuong2♥\Chuong2♥\obj\Debug\netcoreapp3.1\Chuong2♥.csprojAssemblyReference.cache
